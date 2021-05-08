@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. mountains 
+    * Sara Mountain 
+    * Korab
+3. running 
+4. skiing 
+5. code
